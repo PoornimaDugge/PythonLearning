@@ -1,5 +1,5 @@
 
 def greet(name):
-    print("Hi"+name+ " , hope you are doing good")
+    print(f"Hi {name} , hope you are doing good")
 
 greet("Poornima")
